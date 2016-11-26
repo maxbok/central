@@ -46,11 +46,17 @@ Gas sensor
 http://hack.lenotta.com/arduino-raspberry-pi-switching-light-with-nrf24l01/  
 http://www.homautomation.org/2014/06/11/communicating-from-low-power-arduino-to-raspberry-pi-via-nrf24l01/
 
-##### Arduino
+### Arduino
+
 http://www.home-automation-community.com/arduino-low-power-how-to-run-atmega328p-for-a-year-on-coin-cell-battery/  
 http://www.instructables.com/id/Wireless-Remote-Using-24-Ghz-NRF24L01-Simple-Tutor/?ALLSTEPS  
 http://www.instructables.com/id/NRF24L01-ATmega328P-PU-Radio-Sensor/?ALLSTEPS
 
-##### RaspberryPi
+http://maxembedded.com/2015/06/setting-up-avr-gcc-toolchain-on-linux-and-mac-os-x
+https://balau82.wordpress.com/2011/03/29/programming-arduino-uno-in-pure-c/
+http://playground.arduino.cc/FreeBSD/CLI
+
+### RaspberryPi
+
 https://tmrh20.github.io/RF24/RPi.html
 
