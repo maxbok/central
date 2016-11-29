@@ -9,7 +9,7 @@ default: build
 
 build:
 	mkdir -p $(BUILD)
-	$(CC) $(CFLAGS) -o $(BUILD)/$(TARGET) $(SRC)/main.cpp
+	$(CC) $(CFLAGS) -o $(BUILD)/$(TARGET) $(SRC)/**.cpp
 
 clean:
 	rm -rf $(BUILD)
